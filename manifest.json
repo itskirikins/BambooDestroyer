@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Bambooo Destroyer",
+  "description": "This extension destroys bamboo words with a panda.",
+  "version": "1.0",
+
+  "permissions": [
+    
+  ],
+  "browser_action": {
+    "default_icon": "bdicon.png",
+    "default_popup": "popup.html"
+  }
+}
